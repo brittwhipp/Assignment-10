@@ -1,0 +1,14 @@
+body {
+    background: #4481A6;
+    color: #fff;
+    font-family: Calibri, Arial, sans-serif;
+    font-size: 150%;
+    margin: 0;
+    text-align: center;
+}
+
+a:link { color: #000; }
+a:visited { color: #000; }
+a:focus { color: #000; }
+a:hover { color: #000; }
+a:active { color: #000; }
